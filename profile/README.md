@@ -5,11 +5,12 @@
 ## 멤버
 * 팀장 : 주영민
 * 팀원
-  * FE :
-  * BE : 정승훈, 주영민
+  * FE : 김민경, 김효은
+  * BE : 김지욱, 서민지, 정승훈, 주영민
   
-Tech Stack  
+Tech stack  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
