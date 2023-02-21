@@ -6,7 +6,7 @@
 * 팀장
 * 팀원
   * FE :
-  * BE : 
+  * BE : 정승훈
   
 Tech Stack  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
