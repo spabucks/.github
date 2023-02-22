@@ -6,7 +6,7 @@
 * 팀장 : 주영민
 * 팀원
   * FE : 김민경, 김효은
-  * BE : 김지욱, 서민지, 정승훈, 주영민
+  * BE : 김지욱, 정승훈, 주영민
   
 Tech stack  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
