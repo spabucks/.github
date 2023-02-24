@@ -3,10 +3,10 @@
 ## 스타벅스 온라인 스토어 클론 코딩(02.20 ~ )
 
 ## 멤버
-* 팀장 : 주영민
+* 팀장 : 주영민(BE)
 * 팀원
   * FE : 김민경, 김효은
-  * BE : 김지욱, 정승훈, 주영민
+  * BE : 김지욱, 정승훈
   
 Tech stack  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
