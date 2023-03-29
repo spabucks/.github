@@ -1,13 +1,21 @@
-# 스파로스 아카데미 팀 스파벅스 깃헙
+# 팀 스파벅스 깃헙(스파로스 아카데미)
 
-## 스타벅스 온라인 스토어 클론 코딩(02.20 ~ )
+## 클론 코딩(23.02.20 ~ )
 
 ## 멤버
 * 팀장 : 주영민(BE)
 * 팀원
   * FE : 김민경, 김효은
   * BE : 김지욱, 정승훈
-  
+
+## 클론코딩 주제(스타벅스 온라인 스토어)
+|경로|주제|
+|:-:|:-:|
+|스타벅스 모바일 어플리케이션에서<br>order탭에 있는 쇼핑하러 가기 버튼으로 접속|스타벅스 온라인 스토어(모바일 웹)을<br>구현하는 것이 목표|
+|<img src = "https://user-images.githubusercontent.com/90381800/228540848-46946a3f-5507-4e2f-a11f-bf9510330504.png" width="200px" height="500px">|<img src = "https://user-images.githubusercontent.com/90381800/228541721-2c4df1d0-b1cd-47bc-90f9-d6bcc1575a67.png" width="200px" height="500px">|
+
+
+
 Tech stack  
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
@@ -27,3 +35,4 @@ Tool
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white" />
+
