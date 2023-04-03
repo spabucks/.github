@@ -14,7 +14,9 @@
 OS X & 리눅스, 윈도우:
 
 ```sh
-GitHub Repository에서 fork 버튼을 누른다. 
+1. GitHub Repository에서 fork 버튼을 누른다. 
+2. GitHub Access Token 발급 후 Secrets 등록한다.
+3. application.yml 값을 자신의 정보에 맞게 수정한다.
 ```
 
 BackEnd
