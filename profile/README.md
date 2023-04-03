@@ -23,13 +23,17 @@ OS X & 리눅스:
 
 ```
 
-## 개발 환경 설정
+BackEnd
+```sh
+ - Java 11 이상
+```
+
+## BackEnd 개발 환경 설정
 
 모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
 
 ```sh
-make install
-npm test
+./gradlew build
 ```
 
 
