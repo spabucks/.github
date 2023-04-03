@@ -5,10 +5,6 @@
 # 프로젝트명
 > 스타벅스 클론 코딩 '스파벅스' 입니다! 
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 스타벅스 클론 코딩 프로젝트로써, 온라인 스토어를 구현했습니다. 신세계 I&C 주관의 스파로스 아카데미 교육에서 웹앱 형태로 구현했습니다.
 
 ![](../header.png)
