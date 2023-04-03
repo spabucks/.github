@@ -14,13 +14,15 @@
 OS X & 리눅스:
 
 ```sh
-
+$ git clone https://github.com/spabucks/front-nextjs.git
+$ git clone https://github.com/spabucks/Back-end.git
 ```
 
 윈도우:
 
 ```sh
-
+$ git clone https://github.com/spabucks/front-nextjs.git
+$ git clone https://github.com/spabucks/Back-end.git
 ```
 
 BackEnd
