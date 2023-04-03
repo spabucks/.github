@@ -14,8 +14,7 @@
 OS X & 리눅스, 윈도우:
 
 ```sh
-$ git clone https://github.com/spabucks/front-nextjs.git
-$ git clone https://github.com/spabucks/Back-end.git
+GitHub Repository에서 fork 버튼을 누른다. 
 ```
 
 BackEnd
