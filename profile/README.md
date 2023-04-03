@@ -26,6 +26,7 @@ OS X & 리눅스:
 BackEnd
 ```sh
  - Java 11 이상 (이 프로젝트에 빌드 된 버전은 17 버전입니다.)
+ http://sphabucks.xyz/swagger-ui/index.html ( Swagger API )
 ```
 
 ## BackEnd 개발 환경 설정
