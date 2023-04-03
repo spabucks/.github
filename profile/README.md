@@ -29,7 +29,7 @@ BackEnd
 모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
 
 ```sh
-./gradlew build
+./gradlew -x build
 ```
 
 
