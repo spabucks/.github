@@ -14,7 +14,7 @@ OS X & 리눅스, 윈도우:
 
 1. GitHub Repository에서 fork 버튼을 누른다. 
 2. GitHub Access Token 발급 후 Secrets 등록한다.
-3. [환경설정](#-Enviroment) 설정
+3. [환경설정](#enviroment) 설정
 
 
 BackEnd
