@@ -26,8 +26,8 @@ PC환경에서 접속하신 경우 f12를 눌러 개발자모드를 켜 주신 �
 |메인|검색|전체상품|
 |:-:|:-:|:-:|
 |![메인](https://user-images.githubusercontent.com/90381800/230259182-1ebc2ebd-1f73-4098-a91e-7191a5c761dd.gif)|![검색](https://user-images.githubusercontent.com/90381800/230259196-ed1c184c-22b2-4651-8be3-7fad85df4e02.gif)|![전체상품](https://user-images.githubusercontent.com/90381800/230259207-c4ebd1b2-57eb-4454-8c21-1803fcdaed7a.gif)|
-|회원가입|장바구니|로그인|
-|미정|![장바구니](https://user-images.githubusercontent.com/90381800/230259251-f9289e83-f3c5-42c9-8469-c0f7cd79ab14.gif)|![로그인](https://user-images.githubusercontent.com/90381800/230259259-62c5a510-7396-4d83-b75c-2e429b79ff76.gif)|
+|장바구니|로그인|
+|![장바구니](https://user-images.githubusercontent.com/90381800/230259251-f9289e83-f3c5-42c9-8469-c0f7cd79ab14.gif)|![로그인](https://user-images.githubusercontent.com/90381800/230259259-62c5a510-7396-4d83-b75c-2e429b79ff76.gif)|
 
 
 ## 설치 방법
