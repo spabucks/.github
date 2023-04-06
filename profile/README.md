@@ -15,7 +15,7 @@ OS X & 리눅스, 윈도우:
 ```sh
 1. GitHub Repository에서 fork 버튼을 누른다. 
 2. GitHub Access Token 발급 후 Secrets 등록한다.
-3. application.yml 값을 자신의 정보에 맞게 수정한다.
+3. ##Environment 설정
 ```
 
 BackEnd
@@ -42,6 +42,62 @@ BackEnd
 |:-:|:-:|
 |스타벅스 모바일 어플리케이션에서<br>order탭에 있는 쇼핑하러 가기 버튼으로 접속|스타벅스 온라인 스토어(모바일 웹)을<br>구현하는 것이 목표|
 |<img src = "https://user-images.githubusercontent.com/90381800/228540848-46946a3f-5507-4e2f-a11f-bf9510330504.png" width="200px" height="500px">|<img src = "https://user-images.githubusercontent.com/90381800/228541721-2c4df1d0-b1cd-47bc-90f9-d6bcc1575a67.png" width="200px" height="500px">|
+
+## 페이지 접근 권한
+|권한|이름|
+|:-:|:-:|
+|USER|로그인한 유저|
+|GUEST|게스트|
+
+## Enviroment
+
+
+|권한 이름|내용|
+|:-:|:-:|
+|$DB_USERNAME|DB 이름|
+|$DB_PWD|DB 비밀번호|
+|$SCHEMA_NAME| SCHEMA 이름|
+|$PORT|포트번호|
+|$IP|아이피|
+|$ADMIN_MAIL_ID| 메일 아이디 |
+|$ADMIN_MAIL_PWD| 메일 비밀번호|
+|SECRETKEY| Encryption Key |
+
+- application.yml 설정
+```
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: ${{ DB_USERNAME }}
+    url: jdbc:mysql://${{ IP }}:${{ PORT }}/${{ SCHEMA_NAME }}
+    password: {{ DB_PWD }}
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+        format_sql: true
+    hibernate:
+      ddl-auto: update
+  data:
+    redis:
+      host: ${{ IP }}
+      port: ${{ PORT }}
+SECRET_KEY: ${{ SECRETKEY }}
+```
+
+- email.properties 설정
+```
+mail.smtp.socketFactory.class=javax.net.ssl.SSLSocketFactory
+mail.smtp.socketFactory.fallback=false
+mail.smtp.socketFactory.port=465
+mail.smtp.starttls.required=true
+mail.smtp.starttls.enable=true
+mail.smtp.port=465
+mail.smtp.auth=true
+
+AdminMail.id={ADMIN_MAIL_ID}
+AdminMail.password={ADMIN_MAIL_PWD}
+```
 
 
 ## 기여 방법
