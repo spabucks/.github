@@ -12,11 +12,10 @@ PC환경에서 접속하신 경우 f12를 눌러 개발자모드를 켜 주신 �
 
 OS X & 리눅스, 윈도우:
 
-```sh
 1. GitHub Repository에서 fork 버튼을 누른다. 
 2. GitHub Access Token 발급 후 Secrets 등록한다.
-3. ##Environment 설정
-```
+3. [환경설정](#-Enviroment) 설정
+
 
 BackEnd
 ```sh
