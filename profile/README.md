@@ -6,8 +6,6 @@
 ## 링크 : http://sphabucks.xyz
 PC환경에서 접속하신 경우 f12를 눌러 개발자모드를 켜 주신 후 기기 툴바 전환(ctrl + shift + m)을 실행해주세요.
 
-![](../header.png)
-
 ## 설치 방법
 
 OS X & 리눅스, 윈도우:
@@ -41,6 +39,14 @@ BackEnd
 |:-:|:-:|
 |스타벅스 모바일 어플리케이션에서<br>order탭에 있는 쇼핑하러 가기 버튼으로 접속|스타벅스 온라인 스토어(모바일 웹)을<br>구현하는 것이 목표|
 |<img src = "https://user-images.githubusercontent.com/90381800/228540848-46946a3f-5507-4e2f-a11f-bf9510330504.png" width="200px" height="500px">|<img src = "https://user-images.githubusercontent.com/90381800/228541721-2c4df1d0-b1cd-47bc-90f9-d6bcc1575a67.png" width="200px" height="500px">|
+
+## 기능
+
+|메인|검색|전체상품|
+|:-:|:-:|:-:|
+|![메인](https://user-images.githubusercontent.com/90381800/230259182-1ebc2ebd-1f73-4098-a91e-7191a5c761dd.gif)|![검색](https://user-images.githubusercontent.com/90381800/230259196-ed1c184c-22b2-4651-8be3-7fad85df4e02.gif)|![전체상품](https://user-images.githubusercontent.com/90381800/230259207-c4ebd1b2-57eb-4454-8c21-1803fcdaed7a.gif)|
+|회원가입|장바구니|로그인|
+|미정|![장바구니](https://user-images.githubusercontent.com/90381800/230259251-f9289e83-f3c5-42c9-8469-c0f7cd79ab14.gif)|![로그인](https://user-images.githubusercontent.com/90381800/230259259-62c5a510-7396-4d83-b75c-2e429b79ff76.gif)|
 
 ## 페이지 접근 권한
 |권한|이름|
