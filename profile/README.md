@@ -3,10 +3,6 @@
 
 신세계 I&C 주관의 스파로스 아카데미에서 진행한 스타벅스 온라인 스토어 클론 코딩 프로젝트이며 웹앱 형태로 구현했습니다.
 
-## 링크 : http://sphabucks.xyz
-PC환경에서 접속하신 경우 f12를 눌러 개발자모드를 켜 주신 후 기기 툴바 전환(ctrl + shift + m)을 실행해주세요.
-
-
 ## 멤버
 * 팀장 : 주영민(BE)
 * 팀원
@@ -42,7 +38,6 @@ OS X & 리눅스, 윈도우:
 BackEnd
 ```sh
  - Java 11 이상 (이 프로젝트에 빌드 된 버전은 17 버전입니다.)
- http://sphabucks.xyz:8080/swagger-ui/index.html ( Swagger API )
 ```
 
 ## BackEnd 개발 환경 설정
