@@ -19,9 +19,11 @@
 
 ## 기능
 
-|메인|소설|검색|
+|메인|검색|전체상품|
 |:-:|:-:|:-:|
-![메인](https://github.com/spabucks/.github/assets/110506500/a342dd7b-a69a-495a-ba29-c2888dd0adc3)![소설](https://github.com/spabucks/.github/assets/110506500/665b7cf4-48e4-40f7-9735-c80d19e9cefd)![검색](https://github.com/spabucks/.github/assets/110506500/274d7d01-6644-49dd-9975-33d966a6e017)
+|![메인](https://user-images.githubusercontent.com/90381800/230259182-1ebc2ebd-1f73-4098-a91e-7191a5c761dd.gif)|![검색](https://user-images.githubusercontent.com/90381800/230259196-ed1c184c-22b2-4651-8be3-7fad85df4e02.gif)|![전체상품](https://user-images.githubusercontent.com/90381800/230259207-c4ebd1b2-57eb-4454-8c21-1803fcdaed7a.gif)|
+|장바구니|로그인|
+|![장바구니](https://user-images.githubusercontent.com/90381800/230259251-f9289e83-f3c5-42c9-8469-c0f7cd79ab14.gif)|![로그인](https://user-images.githubusercontent.com/90381800/230259259-62c5a510-7396-4d83-b75c-2e429b79ff76.gif)|
 
 
 
